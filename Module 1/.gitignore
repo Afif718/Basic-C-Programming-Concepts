@@ -45,16 +45,19 @@
 # Kernel Module Compile Results
 *.mod*
 *.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+
 main
 Makefile
 replit.nix
 .breakpoints
 .replit
+
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
 
 CMakeLists.txt.user
 CMakeCache.txt
