@@ -14,7 +14,7 @@ int mainn() {
 
   // code
   printf("Hello Afif\n");
-  // calling a cutom function inside a main function
+  // calling a custom function inside a main function
   // hello();
   return 0;
 }
