@@ -25,7 +25,7 @@ int main() {
   // to specify how many digits we want to show use %0.numOFDigits-f
   // Example: %0.3f -> 0.111digits
   printf("Print Float value\n");
-    printf("%0.2f", b);
+  printf("%0.3f", b);
 
   char name[] = "This is a string";
   printf("%s", name);
