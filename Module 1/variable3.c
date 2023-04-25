@@ -13,7 +13,7 @@ int main() {
   float b = 5.43;
 
   // charater
-  char A = 'X';
+  char A = 'W';
 
   // boolean
   bool t = true;
