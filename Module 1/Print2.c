@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// here is main is a buil-in function, without it program can't run
+// here main is a buil-in function, without it program can't run
 
 int Hello() {
 
