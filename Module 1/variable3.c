@@ -23,7 +23,7 @@ int main() {
   printf("\n");
 
   // to print float value use %f
-  // to specify how many digits we want to show use %0.numOFDigits-f
+  // to specify how many digits you want to show use %0.numOFDigits-f
   // Example: %0.3f -> 0.111digits
   printf("Print Float value---> ");
   printf("%0.3f", b);
