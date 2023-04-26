@@ -15,7 +15,7 @@ int main(){
     //float 
     float f = 34.5;
 
-    //when we have a big float number we need to use double
+    //when we have a big float number we need to use doublee
     double df = 2005.12345678999;
 
     printf("Float %0.2f\n", f);
