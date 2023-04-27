@@ -2,7 +2,7 @@
 
 // here main is a buil-in function, without it program can't run
 
-int Hello() {
+int main() {
 
   // here printf() is a build-in function
   // to use a build-in function we need to add the header file

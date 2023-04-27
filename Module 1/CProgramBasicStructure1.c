@@ -10,7 +10,7 @@
 // at the end of the program return 0
 
 // body
-int mainn() {
+int main() {
 
   // code
   printf("Hello Afif\n");
