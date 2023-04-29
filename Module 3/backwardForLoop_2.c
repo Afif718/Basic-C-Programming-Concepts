@@ -2,7 +2,7 @@
 
 int main(){
 
-    for(int i=10; i>=1; i--){
+    for(int i=10; i>=1; i-){
         printf("I love you <3 %d\n ", i);
     }
 
