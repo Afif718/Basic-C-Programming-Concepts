@@ -15,10 +15,7 @@ int main(){
         if(num2==num3){
             printf("%d ", num2);
             printf("%d", num1);
-        }else if(num3 == num2){
-            printf("%d ", num3);
-            printf("%d", num1);
-        } else if(num2<num3){
+        }else if(num2<num3){
             printf("%d ", num2);
             printf("%d", num1);
         } else{
