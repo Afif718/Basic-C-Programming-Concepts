@@ -1,4 +1,8 @@
 //Given 3 numbers A, B and C, Print the minimum and the maximum numbers
+//input can be 1 2 3
+//input can be 2 2 3
+//input can be 3 2 3
+//input can be 3 3 3
 
 #include<stdio.h>
 
