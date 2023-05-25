@@ -1,3 +1,5 @@
+//gcc Module_Name/ProgramFileName.c -o out && ./out
+
 #include<stdio.h>
 
 int main(){
